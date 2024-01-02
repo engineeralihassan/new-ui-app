@@ -1,0 +1,7 @@
+{
+  "name": "new-ui-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
